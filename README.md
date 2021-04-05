@@ -1,0 +1,1 @@
+Mo Apr 5 17:51:10 CEST 2021 This is the first project posted on Github. I will be doing a clone of the Google.com homepage by using CSS and HTML, in order to refresh my knowledge. It is an assignment of The Odin Project
